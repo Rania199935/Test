@@ -1,2 +1,2 @@
 test content for git tutorial
-x =2
+x = 1
