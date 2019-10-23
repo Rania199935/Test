@@ -28,4 +28,4 @@ SQLAlchemy==1.1.13
 twilio==6.4.1
 urllib3==1.21.1
 webencodings==0.5.1
-Werkzeug==0.12.2
+Werkzeug==0.15.3
